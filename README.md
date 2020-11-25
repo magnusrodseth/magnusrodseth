@@ -23,9 +23,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
 [LinkedIn 👔](https://www.linkedin.com/in/magnus-rodseth/)
-<a href="mailto:magnus.rodseth@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail">Mail 📨</a>
-</p>
+[Mail 📨](mailto:magnus.rodseth@gmail.com)
 
 ⭐️  &nbsp; Made by [Magnus Rødseth](https://github.com/magnusrodseth)
