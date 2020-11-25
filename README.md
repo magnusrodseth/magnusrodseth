@@ -24,6 +24,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 - 👔 &nbsp; <a href="https://www.linkedin.com/in/magnus-rodseth/">LinkedIn</a>  
-[Mail 📨](mailto:magnus.rodseth@gmail.com)
-
+- 📨 &nbsp; <a href="mailto:magnus.rodseth@gmail.com">LinkedIn</a>
 ⭐️  &nbsp; Made by [Magnus Rødseth](https://github.com/magnusrodseth)
