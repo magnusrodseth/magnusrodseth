@@ -24,8 +24,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/magnus-rodseth/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:magnus.rodseth@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/magnus-rodseth/"><img alt="LinkedIn">LinkedIn 👔</a>
+<a href="mailto:magnus.rodseth@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail">Mail 📨</a>
 </p>
 
 ⭐️  &nbsp; Made by [Magnus Rødseth](https://github.com/magnusrodseth)
