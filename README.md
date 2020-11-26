@@ -9,7 +9,7 @@
 
 - 💻 &nbsp; Python, Java, C#
 - 🌐 &nbsp; HTML5, CSS, JavaScript, React, Node.js, TypeScript, Bootstrap
-- ⚙️ &nbsp; Git, GitHub, GitLab, Markdown
+- ⚙️ &nbsp; Git, GitHub, GitLab, GitKraken, Markdown
 - 🔧 &nbsp; Visual Studio Code, Visual Studio, Intellij, DataGrip
 
 <br/>
