@@ -12,8 +12,6 @@
 - ⚙️ &nbsp; Git, GitHub, GitLab, GitKraken, Markdown
 - 🔧 &nbsp; Visual Studio Code, Visual Studio, Intellij, PyCharm, Rider, DataGrip
 
-<br/>
-
 <h3> 🤝🏻 &nbsp; Connect with Me </h3>
 
 - 👔 &nbsp; <a href="https://www.linkedin.com/in/magnus-rodseth/">LinkedIn</a>  
