@@ -14,13 +14,6 @@
 
 <br/>
 
-<a href="https://github.com/magnusrodseth">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnusrodseth&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusrodseth&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp; Connect with Me </h3>
 
 - 👔 &nbsp; <a href="https://www.linkedin.com/in/magnus-rodseth/">LinkedIn</a>  
