@@ -3,14 +3,14 @@
 <h3> 👨🏻‍💻 &nbsp; About Me</h3>
 
 - 🎓 &nbsp; Studying Computer Science (BIT) at Norwegian University of Science and Technology
-- 🌱 &nbsp; Learning more about Java, frameworks for full-stack web development and relational databases
+- 🌱 &nbsp; Learning more about Java, frameworks for full-stack web development, relational databases and Docker
 
 <h3> 🛠 &nbsp; Tech Stack</h3>
 
 - 💻 &nbsp; Python, Java, C#
-- 🌐 &nbsp; HTML5, CSS, JavaScript, React, Node.js, TypeScript, Bootstrap, Material UI
+- 🌐 &nbsp; HTML5, CSS, JavaScript, React, Node.js, TypeScript, Bootstrap, Material UI, Redux
 - ⚙️ &nbsp; Git, GitHub, GitLab, GitKraken, Markdown
-- 🔧 &nbsp; Visual Studio Code, Visual Studio, Intellij, PyCharm, Rider, DataGrip
+- 🔧 &nbsp; Visual Studio Code, Visual Studio, Intellij, PyCharm, Rider, DataGrip, Postman
 
 <h3> 🤝🏻 &nbsp; Connect with Me </h3>
 
