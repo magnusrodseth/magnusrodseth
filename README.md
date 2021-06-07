@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp; About Me</h3>
 
-- 🎓 &nbsp; Studying Computer Science (BIT) at Norwegian University of Science and Technology
+- 🎓 &nbsp; Studying Computer Science (MSc) at Norwegian University of Science and Technology
 - 🌱 &nbsp; Learning more about Java, frameworks for full-stack web development, relational databases and Docker
 
 <h3> 🛠 &nbsp; Tech Stack</h3>
