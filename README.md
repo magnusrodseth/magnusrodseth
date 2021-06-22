@@ -33,5 +33,7 @@
 
 <hr>
 
+[![magnusrodseth's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnusrodseth)](https://github.com/magnusrodseth/github-readme-stats)
+
 ⭐️ &nbsp; Made by [Magnus Rødseth](https://github.com/magnusrodseth)  
 
