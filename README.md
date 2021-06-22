@@ -1,4 +1,4 @@
-<h1> Hello, you!</h1>
+<h1> 👋🏼 &nbsp; Hello, you!</h1>
 
 <h2> 👨🏻‍💻 &nbsp; About Me</h2>
 
