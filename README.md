@@ -13,6 +13,8 @@
 
 🌍 &nbsp; React, Node.js, TypeScript, Next.js, Redux, Strapi, HTML5, CSS, JavaScript  
 
+⛓️ &nbsp; GraphQL
+
 🎨 &nbsp; Bootstrap, Material UI, Tailwind CSS  
 
 📂 &nbsp; PostgreSQL, TypeORM  
