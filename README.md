@@ -6,6 +6,9 @@
 
 🌱 &nbsp; Learning more about data structures and algorithms, full-stack web development, databases and Docker  
 
+<h2> 📊 &nbsp; GitHub statistics </h2>
+
+[![magnusrodseth's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnusrodseth&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/magnusrodseth/github-readme-stats)  
 
 <h2> 🛠 &nbsp; Tech Stack</h2>
 
@@ -32,8 +35,6 @@
 
 
 <hr>
-
-[![magnusrodseth's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnusrodseth&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/magnusrodseth/github-readme-stats)
 
 ⭐️ &nbsp; Made by [Magnus Rødseth](https://github.com/magnusrodseth)  
 
