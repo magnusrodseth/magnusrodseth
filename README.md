@@ -1,14 +1,16 @@
-<h2> Hello, you!</h2>
+<h1> Hello, you!</h1>
 
-<h3> 👨🏻‍💻 &nbsp; About Me</h3>
+<h2> 👨🏻‍💻 &nbsp; About Me</h2>
 
-- 🎓 &nbsp; Studying Computer Science (MSc) at Norwegian University of Science and Technology
-- 🌱 &nbsp; Learning more about Java, frameworks for full-stack web development, relational databases and Docker
+🎓 &nbsp; Studying Computer Science (MSc) at Norwegian University of Science and Technology. Read more about it [here](https://www.ntnu.edu/studies/bit).
+🌱 &nbsp; Learning more about data structures and algorithms, full-stack web development, databases and Docker
 
-<h3> 🛠 &nbsp; Tech Stack</h3>
+<h2> 🛠 &nbsp; Tech Stack</h2>
 
 - 💻 &nbsp; Python, Java, C#
-- 🌐 &nbsp; HTML5, CSS, JavaScript, React, Node.js, TypeScript, Bootstrap, Material UI, Redux
+- 🌐 &nbsp; HTML5, CSS, JavaScript, React, Node.js, TypeScript, Bootstrap, Material UI, Redux, Tailwind CSS
+- 
+- 🗃 &nbsp; PostgreSQL
 - ⚙️ &nbsp; Git, GitHub, GitLab, GitKraken, Markdown
 - 🔧 &nbsp; Visual Studio Code, Visual Studio, Intellij, PyCharm, Rider, DataGrip, Postman
 
