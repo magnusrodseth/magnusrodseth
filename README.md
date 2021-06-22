@@ -11,7 +11,7 @@
 
 💻 &nbsp; Python, Java, C#  
 
-🌍 &nbsp; HTML5, CSS, JavaScript, React, Node.js, TypeScript, Next.js, Redux  
+🌍 &nbsp; React, Node.js, TypeScript, Next.js, Redux, Strapi, HTML5, CSS, JavaScript  
 
 🎨 &nbsp; Bootstrap, Material UI, Tailwind CSS  
 
