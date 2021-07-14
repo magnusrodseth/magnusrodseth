@@ -8,7 +8,7 @@
 
 <h2> 😁 &nbsp; Projects I'm Proud Of</h2>
 
-🔗 &nbsp; [SystemSoft AS Website](https://www.systemsoft.no/) &nbsp; [SystemSoft AS Repository](https://github.com/magnusrodseth/systemsoft)  
+Please scroll down to the **Pinned repositories** below!
 
 <h2> 📊 &nbsp; GitHub Statistics </h2>
 
