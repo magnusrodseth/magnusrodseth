@@ -6,11 +6,11 @@
 
 🌱 &nbsp; Learning more about data structures and algorithms, full-stack web development, databases and Docker.  
 
-<h2> 😁 &nbsp; Projects I'm proud of</h2>
+<h2> 😁 &nbsp; Projects I'm Proud Of</h2>
 
 🔗 &nbsp; [SystemSoft AS Website](https://www.systemsoft.no/) &nbsp; [SystemSoft AS Repository](https://github.com/magnusrodseth/systemsoft)  
 
-<h2> 📊 &nbsp; GitHub statistics </h2>
+<h2> 📊 &nbsp; GitHub Statistics </h2>
 
 [![magnusrodseth's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnusrodseth&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/magnusrodseth/github-readme-stats)  
 
