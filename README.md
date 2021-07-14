@@ -4,7 +4,7 @@
 
 🎓 &nbsp; Studying Computer Science (MSc) at Norwegian University of Science and Technology. Read more about it [here](https://www.ntnu.edu/studies/bit).  
 
-🌱 &nbsp; Learning more about data structures and algorithms, full-stack web development, databases and Docker  
+🌱 &nbsp; Learning more about data structures and algorithms, full-stack web development, databases and Docker.  
 
 <h2> 📊 &nbsp; GitHub statistics </h2>
 
