@@ -8,7 +8,7 @@
 
 <h2> 😁 &nbsp; Projects I'm Proud Of</h2>
 
-Please scroll down to the **Pinned repositories** below!
+Please scroll down to the **Pinned Repositories** below!
 
 <h2> 📊 &nbsp; GitHub Statistics </h2>
 
