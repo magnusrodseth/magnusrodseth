@@ -6,6 +6,12 @@
 
 🌱 &nbsp; Learning more about data structures and algorithms, full-stack web development, C++ and Docker.  
 
+<h2> 🤝 &nbsp; Connect with Me </h2>
+
+👔 &nbsp; <a href="https://www.linkedin.com/in/magnus-rodseth/">LinkedIn</a>  
+
+📨 &nbsp; <a href="mailto:magnus.rodseth@gmail.com">Mail</a>  
+
 <h2> 😁 &nbsp; Projects I'm Proud Of</h2>
 
 Please scroll down to the **Pinned Repositories** below!
@@ -29,13 +35,6 @@ Please scroll down to the **Pinned Repositories** below!
 ⚙️ &nbsp; Git, GitHub, GitLab, GitKraken, Markdown  
 
 🔧 &nbsp; Visual Studio Code, Visual Studio, IntelliJ, PyCharm, Rider, DataGrip, Wireshark, Postman  
-
-
-<h2> 🤝 &nbsp; Connect with Me </h2>
-
-👔 &nbsp; <a href="https://www.linkedin.com/in/magnus-rodseth/">LinkedIn</a>  
-
-📨 &nbsp; <a href="mailto:magnus.rodseth@gmail.com">Mail</a>  
 
 
 <hr>
