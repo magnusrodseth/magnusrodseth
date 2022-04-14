@@ -4,7 +4,7 @@
 
 🎓 &nbsp; Studying Computer Science (MSc) at Norwegian University of Science and Technology. Read more about it [here](https://www.ntnu.edu/studies/bit).  
 
-🌱 &nbsp; Learning more about operating systems, agile software development and databases.  
+🌱 &nbsp; Learning more about operating systems, C, agile software development and databases.  
 
 <h2> 🤝 &nbsp; Connect with Me </h2>
 
