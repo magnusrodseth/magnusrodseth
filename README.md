@@ -12,7 +12,7 @@
 
 📨 &nbsp; <a href="mailto:magnus.rodseth@gmail.com">Mail</a>  
 
-<h2> 🏆 &nbsp; Projects I'm Proud Of</h2>
+<h2> 💫 &nbsp; Projects I Have Contributed To</h2>
 
 Please scroll down to the **Pinned Repositories** below!
 
