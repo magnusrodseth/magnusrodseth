@@ -20,6 +20,9 @@ Please scroll down to the **Pinned Repositories** below!
 
 [![magnusrodseth's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnusrodseth&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/magnusrodseth/github-readme-stats)
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=magnusrodseth&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=magnusrodseth&theme=tokyonight" />
+
 [![magnusrodseth's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=magnusrodseth&theme=tokyo-night)](https://github.com/magnusrodseth/github-readme-activity-graph)
 
 <hr>
