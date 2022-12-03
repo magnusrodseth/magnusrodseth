@@ -4,7 +4,7 @@
 
 🎓 &nbsp; Studying Computer Science (MSc) at Norwegian University of Science and Technology. Read more about it [here](https://www.ntnu.edu/studies/bit).  
 
-🌱 &nbsp; Learning more about full-stack web development, information systems and agile software development.
+🌱 &nbsp; Learning more about Rust, full-stack web development, information systems and agile software development.
 
 <h2> 🤝 &nbsp; Connect with Me </h2>
 
