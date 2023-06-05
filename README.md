@@ -10,7 +10,7 @@
 
 👔 &nbsp; <a href="https://www.linkedin.com/in/magnus-rodseth/">LinkedIn</a>  
 
-📨 &nbsp; <a href="mailto:magnus.rodseth@gmail.com">Mail</a>  
+📨 &nbsp; <a href="mailto:magnus.rodseth@gmail.com">E-mail</a>  
 
 <h2> 💫 &nbsp; Projects I Have Contributed To</h2>
 
