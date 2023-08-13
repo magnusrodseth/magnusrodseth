@@ -2,9 +2,9 @@
 
 <h2> 👨🏻‍💻 &nbsp; About Me</h2>
 
-🎓 &nbsp; Studying Computer Science (MSc) at Norwegian University of Science and Technology. Read more about it [here](https://www.ntnu.edu/studies/bit).  
+🎓 &nbsp; Studying Computer Science (MSc) at Norwegian University of Science and Technology. Read more about it [here](https://www.ntnu.no/studier/msit).  
 
-🌱 &nbsp; Learning more about Compiler Construction, Software Security and Data Privacy, Rust and agile software development.
+🌱 &nbsp; Learning more about AI, embeddings, edge runtime, web streaming and SaaS.
 
 <h2> 🤝 &nbsp; Connect with Me </h2>
 
@@ -22,5 +22,5 @@ Please scroll down to the **Pinned Repositories** below!
 
 <hr>
 
-⭐️ &nbsp; Made by [Magnus Rødseth](https://github.com/magnusrodseth)  
+🫶🏼 &nbsp; Made by [Magnus Rødseth](https://github.com/magnusrodseth)  
 
