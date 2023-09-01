@@ -4,7 +4,7 @@
 
 🎓 &nbsp; Studying Computer Science (MSc) at Norwegian University of Science and Technology. Read more about it [here](https://www.ntnu.no/studier/msit).  
 
-🌱 &nbsp; Learning more about AI, embeddings, edge runtime, web streaming and building a SaaS.
+🌱 &nbsp; Learning more about data-driven software development, AI, embeddings, edge runtime, web streaming, and building a SaaS.
 
 <h2> 🤝 &nbsp; Connect with Me </h2>
 
