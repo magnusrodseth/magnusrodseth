@@ -2,11 +2,11 @@
 
 <h2> 👨🏻‍💻 &nbsp; About Me</h2>
 
-🎓 &nbsp; Studying Computer Science (MSc) at Norwegian University of Science and Technology. Read more about it [here](https://www.ntnu.no/studier/msit).  
+💼 &nbsp; Currently working as Developer at [Capra Consulting](https://www.capraconsulting.no/).
 
-👨‍💻 &nbsp; Working as Chief Technology Officer (CTO) at [Junior Consulting](https://www.jrc.no/), Norway's largest student-led consultancy firm. Junior Consulting offers technology solutions, strategic advice, and cutting-edge design services to our clients at an affordable price.
+🎓 &nbsp; Studied Computer Science (MSc) at Norwegian University of Science and Technology. Read more about it [here](https://www.ntnu.no/studier/msit).  
 
-🌱 &nbsp; Learning more about data-driven software development, AI, edge runtime, web streaming, and building a SaaS.
+👨‍💻 &nbsp; Formerly Chief Technology Officer (CTO) at [Junior Consulting](https://www.jrc.no/), Norway's largest student-led consultancy firm. Junior Consulting offers technology solutions, strategic advice, and cutting-edge design services to our clients at an affordable price.
 
 <h2> 🤝 &nbsp; Connect with Me </h2>
 
