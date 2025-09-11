@@ -2,7 +2,7 @@
 
 <h2> 👨🏻‍💻 &nbsp; About Me</h2>
 
-💼 &nbsp; Currently working as Developer at [Capra Consulting](https://www.capraconsulting.no/).
+💼 &nbsp; Currently working as a Developer at [Capra Consulting](https://www.capraconsulting.no/).
 
 🎓 &nbsp; Studied Computer Science (MSc) at Norwegian University of Science and Technology. Read more about it [here](https://www.ntnu.no/studier/msit).  
 
