@@ -20,7 +20,7 @@ Please scroll down to the **Pinned Repositories** below!
 
 <h2> 📈 &nbsp; GitHub Statistics </h2>
 
-[![magnusrodseth's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnusrodseth&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/magnusrodseth/github-readme-stats)
+[![magnusrodseth's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnusrodseth&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
